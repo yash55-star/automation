@@ -2,7 +2,7 @@
 
 
 
-## GIT+Maven+docker image creation + docker image run
+## GIT+Maven+docker image creation + docker image run (on windows)
 
 
 
